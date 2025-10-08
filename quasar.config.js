@@ -47,7 +47,7 @@ export default defineConfig((/* ctx */) => {
       // vueOptionsAPI: false,
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
-
+      publicPath: '/6704101329-tinaphat-srijan/',
       // publicPath: '/',
       // analyze: true,
       // env: {},
